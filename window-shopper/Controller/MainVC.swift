@@ -9,7 +9,7 @@
 import UIKit
 
 class MainVC: UIViewController {
-    //test
+    
     @IBOutlet weak var wageTxt: CurrencyTxtField!
     @IBOutlet weak var priceTxt: CurrencyTxtField!
     
